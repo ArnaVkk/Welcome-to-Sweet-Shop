@@ -456,7 +456,7 @@ Co-authored-by: GitHub Copilot
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Arnav Kumar**
 - Final Year CSE Student
 - Placement Project Submission - December 2024
 
